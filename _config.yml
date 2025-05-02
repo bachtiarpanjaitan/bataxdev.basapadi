@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-EN"
-title                    : "Batax Developer"
+title                    : "Bachtiar Panjaitan"
 title_separator          : "-"
 subtitle                 : "To Make Something Great" # site tagline that appears below site title in masthead
 name                     : "Bataxdev"
-description              : "Batax Developer is a business engaged in the creation and development of software, hardware, system design and maintenance services."
+description              : "Bachtiar Panjaitan is a developer of software, hardware, system design and maintenance services."
 url                      : "https://bataxdev.basapadi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "bachtiarpanjaitan/bataxdev" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 100
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "batax-developer" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "bachtiar-panjaitan" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@bataxdev.basapadi.com"
+      url: "mailto:bachtiarpanjaitan0@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,20 +121,20 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/bataxdev"
+      url: "https://www.facebook.com/BachtiarPanjaitan93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bataxdev"
+      url: "https://github.com/bachtiarpanjaitan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/bataxdev"
+      url: "https://www.instagram.com/bachtiar.panjaitan"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@bataxdev.basapadi.com"
+      url: "mailto:bachtiarpanjaitan0@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://bataxdev.basapadi.com"
@@ -143,10 +143,10 @@ footer:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/bataxdev"
+      url: "https://www.facebook.com/BachtiarPanjaitan93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bataxdev"
+      url: "https://github.com/bachtiarpanjaitan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/bataxdev"

@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/polygonid.jpg
   overlay_image: /assets/images/unsplash-image-2.jpg
   og_image: /assets/images/polygonid.jpg
-  caption: "Photo credit: Batax Developer"
+  caption: "Photo credit: Bachtiar Panjaitan"
   actions:
     - label: "DEMO"
       url: "https://polygonid.basapadi.com"

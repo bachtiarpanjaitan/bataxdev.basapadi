@@ -2,9 +2,9 @@
 <rss version="2.0">
 
 <channel>
-  <title>Batax Developer</title>
+  <title>Bachtiar Panjaitan</title>
   <link>https://bataxdev.basapadi.com</link>
-  <description>Batax Developer is a business engaged in the creation and development of software, hardware, system design and maintenance services.</description>
+  <description>Bachtiar Panjaitan is a developer of software, hardware, system design and maintenance services.</description>
   <item>
     <title>About</title>
     <link>https://bataxdev.basapadi.com/about</link>
@@ -21,7 +21,7 @@
     <description>Our Projects</description>
   </item>
   <item>
-    <title>Blogs</title>
+    <title>Notes</title>
     <link>https://bataxdev.basapadi.com/blogs</link>
     <description>We have some usefull article for you.</description>
   </item>

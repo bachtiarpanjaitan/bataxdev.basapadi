@@ -10,9 +10,9 @@ carousels:
     - image: /assets/images/unsplash-image-10.jpg
 ---
 
-{% include carousel.html height="30" unit="%" duration="7" number="1" %}
+<!-- {% include carousel.html height="30" unit="%" duration="7" number="1" %} -->
 
-Batax Developer is a business engaged in the creation and development of software, hardware, system design and maintenance services
+<!-- Bachtiar Panjaitan is a developer of software, hardware, system design and maintenance services. -->
 
 <!-- ## My Github Activities
 
@@ -24,7 +24,10 @@ Batax Developer is a business engaged in the creation and development of softwar
 </div> -->
 
 ## Github Projects
-[![Btx Repository](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=vue-dark&card_width=800)](https://github.com/bachtiarpanjaitan/btx) 
+[![Btx Repository](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=vue-dark&card_width=100%)](https://github.com/bachtiarpanjaitan/btx) 
 [![Lumen Repository](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=lumen&theme=vue-dark&card_width=100%)](https://github.com/bachtiarpanjaitan/lumen)
+
+[![IhandCashier Repository](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=IhandCashier&theme=vue-dark&card_width=100%)](https://github.com/bachtiarpanjaitan/IhandCashier)
+
 <br>
 
