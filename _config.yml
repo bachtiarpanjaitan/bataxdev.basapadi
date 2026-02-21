@@ -10,12 +10,12 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme           : "benbalter/retlab"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-EN"
+locale                   : "id-ID"
 title                    : "Bachtiar Panjaitan"
 title_separator          : "-"
 subtitle                 : "To Make Something Great" # site tagline that appears below site title in masthead
@@ -232,6 +232,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:

@@ -14,20 +14,13 @@ carousels:
 
 <!-- Bachtiar Panjaitan is a developer of software, hardware, system design and maintenance services. -->
 
-<!-- ## My Github Activities
+# 🚧 Konten Sedang Disiapkan
 
-![Bachtiar Panjaitan View's](https://komarev.com/ghpvc/?username=bachtiarpanjaitan)
+Halaman ini belum memiliki konten yang dapat ditampilkan.
 
-<div style="width:inherit; white-space: nowrap;">
-  <img style="background-size: cover;width: 55%;" src="https://github-readme-stats.vercel.app/api?username=bachtiarpanjaitan&show_icons=true&theme=vue-dark&card_width=300"/>
-  <img style="background-size: cover;width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarpanjaitan&layout=donut&theme=vue-dark" />
-</div> -->
+Untuk melanjutkan, silakan pilih menu utama di bagian atas atau gunakan tautan cepat berikut:
 
-## Github Projects
-[![Btx Repository](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=btx&theme=vue-dark&card_width=100%)](https://github.com/bachtiarpanjaitan/btx) 
-[![Lumen Repository](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=lumen&theme=vue-dark&card_width=100%)](https://github.com/bachtiarpanjaitan/lumen)
+---
 
-[![IhandCashier Repository](https://github-readme-stats.vercel.app/api/pin/?username=bachtiarpanjaitan&repo=IhandCashier&theme=vue-dark&card_width=100%)](https://github.com/bachtiarpanjaitan/IhandCashier)
-
-<br>
+-- Bachtiar Panjaitan
 
